@@ -6,7 +6,7 @@ namespace Gestion_Destinataire.Controllers
 {
 
     [ApiController]
-    [Route("api/[Controller]")]
+    [Route("api/destinataire")]
     public class DestinataireController : ControllerBase
     {
         private readonly IDestinataireService _destinataireService;

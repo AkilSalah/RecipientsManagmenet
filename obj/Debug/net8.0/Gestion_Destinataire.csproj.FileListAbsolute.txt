@@ -165,3 +165,4 @@ C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\refint\Gestio
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.pdb
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.genruntimeconfig.cache
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\ref\Gestion_Destinataire.dll
+C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.sourcelink.json

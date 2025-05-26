@@ -1,23 +1,21 @@
-# Étape 1 : build
+# Étape de build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /app
+WORKDIR /src
+COPY ["Gestion_Destinataire.csproj", "."]
+RUN dotnet restore "Gestion_Destinataire.csproj"
+COPY . .
+RUN dotnet build "Gestion_Destinataire.csproj" -c Release -o /app/build
+RUN dotnet publish "Gestion_Destinataire.csproj" -c Release -o /app/publish
 
-# Copie du csproj et restore
-COPY *.csproj ./
-RUN dotnet restore
-
-# Copie du reste du code
-COPY . ./
-RUN dotnet publish -c Release -o out
-
-# Étape 2 : runtime
+# Étape d'exécution
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=build /app/out .
+COPY --from=build /app/publish .
 
-# Spécifier le port
-ENV ASPNETCORE_URLS=http://+:10000
-EXPOSE 10000
+# Set environment variables
+ENV ASPNETCORE_URLS=http://+:8080
+ENV ASPNETCORE_ENVIRONMENT=Production
 
-# Commande de démarrage
+EXPOSE 8080
+
 ENTRYPOINT ["dotnet", "Gestion_Destinataire.dll"]
