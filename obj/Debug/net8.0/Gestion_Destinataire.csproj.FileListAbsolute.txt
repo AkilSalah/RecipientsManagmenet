@@ -148,12 +148,17 @@ C:\Users\s.akil\source\repos\Gestion_Destinataire\bin\Debug\net8.0\runtimes\win\
 C:\Users\s.akil\source\repos\Gestion_Destinataire\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\s.akil\source\repos\Gestion_Destinataire\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.csproj.AssemblyReference.cache
+C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.AssemblyInfoInputs.cache
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.AssemblyInfo.cs
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.csproj.CoreCompileInputs.cache
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.sourcelink.json
+C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\scopedcss\bundle\Gestion_Destinataire.styles.css
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\staticwebassets.build.json.cache
@@ -165,4 +170,3 @@ C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\refint\Gestio
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.pdb
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.genruntimeconfig.cache
 C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\ref\Gestion_Destinataire.dll
-C:\Users\s.akil\source\repos\Gestion_Destinataire\obj\Debug\net8.0\Gestion_Destinataire.sourcelink.json
